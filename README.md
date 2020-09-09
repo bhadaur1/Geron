@@ -1,2 +1,2 @@
 # ml-sklearn-tensorflow-book
-This repository contains personalized (adapted) code and literature (notebook, html and slides) from Hands on Machine Learning with scikit-learn and tensorflow.
+This repository contains personalized (adapted) code and literature from Hands on Machine Learning with scikit-learn and Tensorflow (2nd edition)
